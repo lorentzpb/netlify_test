@@ -1,7 +1,7 @@
 ---
 title: "Anothertest"
 date: 2019-08-15T10:51:34-07:00
-draft: true
+draft: false
 ---
 
 # Heading 1
