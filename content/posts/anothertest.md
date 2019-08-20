@@ -22,10 +22,14 @@ This is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, se
 
 This is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie.
 
-![IMG_1963](../resources/_gen/images/IMG_1963.JPG)
+![gohugo-default-sample-hero-image](/images/gohugo-default-sample-hero-image.jpg)
 
 This is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie.
 
 ### another heading 3
 
-This is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie.
+This is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+
+another image
+
+![flower](/img/flower.jpg)
