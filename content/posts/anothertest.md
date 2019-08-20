@@ -22,7 +22,7 @@ This is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, se
 
 This is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie.
 
-![gohugo-default-sample-hero-image](/images/gohugo-default-sample-hero-image.jpg)
+![gohugo-default-sample-hero-image](/img/gohugo-default-sample-hero-image.jpg)
 
 This is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie.
 
