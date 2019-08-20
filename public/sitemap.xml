@@ -20,16 +20,6 @@
   </url>
   
   <url>
-    <loc>http://example.org/posts/test/</loc>
-    <lastmod>2019-08-15T10:51:07-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
-    <lastmod>2019-08-15T10:12:37-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://example.org/categories/</loc>
     <priority>0</priority>
   </url>
