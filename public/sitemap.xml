@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/anothertest/</loc>
+    <loc>https://stoic-hermann-984c41.netlify.com/posts/anothertest/</loc>
     <lastmod>2019-08-15T10:51:34-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2019-08-15T10:51:34-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://stoic-hermann-984c41.netlify.com/</loc>
     <lastmod>2019-08-15T10:51:34-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/test/</loc>
+    <loc>https://stoic-hermann-984c41.netlify.com/posts/</loc>
+    <lastmod>2019-08-15T10:51:34-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stoic-hermann-984c41.netlify.com/posts/test/</loc>
     <lastmod>2019-08-15T10:51:07-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://stoic-hermann-984c41.netlify.com/posts/my-first-post/</loc>
     <lastmod>2019-08-15T10:12:37-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://stoic-hermann-984c41.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://stoic-hermann-984c41.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   

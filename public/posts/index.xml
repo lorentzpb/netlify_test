@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Paul&#39;s test site built with Hugo</title>
+    <link>https://stoic-hermann-984c41.netlify.com/posts/</link>
+    <description>Recent content in Posts on Paul&#39;s test site built with Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Aug 2019 10:51:34 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stoic-hermann-984c41.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Anothertest</title>
-      <link>http://example.org/posts/anothertest/</link>
+      <link>https://stoic-hermann-984c41.netlify.com/posts/anothertest/</link>
       <pubDate>Thu, 15 Aug 2019 10:51:34 -0700</pubDate>
       
-      <guid>http://example.org/posts/anothertest/</guid>
+      <guid>https://stoic-hermann-984c41.netlify.com/posts/anothertest/</guid>
       <description>Heading 1 This is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie.
 This is a heading 2 This is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie.
    Column 1 Column 2 Column 3     Lorem ipsum dolor sit amet consectetur adipiscing elit Morbi quis commodo   consectetur adipiscing elit Lorem ipsum dolor sit amet consectetur adipiscing elit   Morbi quis commodo Massa sapien faucibus et molestie Lorem ipsum dolor sit amet    This is a heading 3 This is a paragraph.</description>
@@ -24,10 +24,10 @@ This is a heading 2 This is a paragraph. Lorem ipsum dolor sit amet, consectetur
     
     <item>
       <title>Test topic</title>
-      <link>http://example.org/posts/test/</link>
+      <link>https://stoic-hermann-984c41.netlify.com/posts/test/</link>
       <pubDate>Thu, 15 Aug 2019 10:51:07 -0700</pubDate>
       
-      <guid>http://example.org/posts/test/</guid>
+      <guid>https://stoic-hermann-984c41.netlify.com/posts/test/</guid>
       <description>This is a heading 1 This is a paragraph
 cross-reference to another file. link
 This is a heading 2 This is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie.</description>
@@ -35,10 +35,10 @@ This is a heading 2 This is a paragraph. Lorem ipsum dolor sit amet, consectetur
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://stoic-hermann-984c41.netlify.com/posts/my-first-post/</link>
       <pubDate>Thu, 15 Aug 2019 10:12:37 -0700</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://stoic-hermann-984c41.netlify.com/posts/my-first-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit aliquet sagittis id consectetur purus ut faucibus pulvinar.
 This is a heading 2 This is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie.</description>
     </item>
